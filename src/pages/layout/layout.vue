@@ -80,13 +80,13 @@
           },
           {
             path: '/tables',
-            title: '表格管理',
+            title: '添加商品',
             icon: 'el-icon-adm-linechart'
             // children: []
           },
           {
             path: '/charts',
-            title: '图表管理',
+            title: '商品详情',
             icon: 'el-icon-adm-statistics'
             // children: []
           },
